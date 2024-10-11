@@ -1,9 +1,7 @@
-![Header](https://github.com/EmpIreR777/EmpIreR777/blob/main/assets/Kirill-Safronov-11-10-2024%20(1).png)
-
 About me
 
 
-### Languages and Tools
+### Языки и инструменты
 ![Python](https://shields.microej.com/badge/-Python-090909??style=for-the-badge&logo=python)
 ![Django](https://shields.microej.com/badge/-Django-090909??style=for-the-badge&logo=Django)
 ![SQL](https://shields.microej.com/badge/-SQL-090909??style=for-the-badge&logo=SQLite)
@@ -16,6 +14,10 @@ About me
 ![Linux](https://shields.microej.com/badge/-Linux-090909??style=for-the-badge&logo=Linux)
 ![Nginx](https://shields.microej.com/badge/-Nginx-090909??style=for-the-badge&logo=Nginx)
 ![Docker](https://shields.microej.com/badge/-Docker-090909??style=for-the-badge&logo=Docker)
+![Git](https://shields.microej.com/badge/-Git-090909??style=for-the-badge&logo=Git)
 ![CI/CD](https://shields.microej.com/badge/-CI/CD-090909??style=for-the-badge&logo=circleci)
 
-Follow Me
+### Контакты
+[![TELEGRAM](https://shields.microej.com/badge/-TELEGRAM-090909??style=for-the-badge&logo=TELEGRAM)](https://t.me/EmpIreR7)
+![mail](https://shields.microej.com/badge/-mail-090909??style=for-the-badge&logo=gmail)
+
