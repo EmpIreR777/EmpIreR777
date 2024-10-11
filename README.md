@@ -1,4 +1,4 @@
-About me
+### "Код — это не просто набор инструкций, это искусство, превращающее идеи в реальность."
 
 
 ### Языки и инструменты
@@ -19,6 +19,5 @@ About me
 
 ### Контакты
 [![TELEGRAM](https://shields.microej.com/badge/-TELEGRAM-090909??style=for-the-badge&logo=TELEGRAM)](https://t.me/EmpIreR7)
-[![mail](https://img.shields.io/badge/-mail-090909?style=for-the-badge&logo=gmail)](mailto:cyril.killreal@yandex.ru)
-
+[![mail](https://shields.microej.com/badge/-mail-090909??style=for-the-badge&logo=gmail)](mailto:cyril.killreal@yandex.ru)
 
