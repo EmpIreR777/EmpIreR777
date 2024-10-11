@@ -1,4 +1,4 @@
-### "Код — это не просто набор инструкций, это искусство, превращающее идеи в реальность."
+### print("Код — это не просто набор инструкций, это искусство, превращающее идеи в реальность.")
 
 
 ### Языки и инструменты
@@ -21,3 +21,7 @@
 [![TELEGRAM](https://shields.microej.com/badge/-TELEGRAM-090909??style=for-the-badge&logo=TELEGRAM)](https://t.me/EmpIreR7)
 [![mail](https://shields.microej.com/badge/-mail-090909??style=for-the-badge&logo=gmail)](mailto:cyril.killreal@yandex.ru)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmpIreR777&show_icons=True&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmpIreR777&hide_progress=true&theme=onedark)
