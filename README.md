@@ -14,6 +14,7 @@
 ![Redis](https://shields.microej.com/badge/-Redis-090909??style=for-the-badge&logo=Redis)
 ![Linux](https://shields.microej.com/badge/-Linux-090909??style=for-the-badge&logo=Linux)
 ![Nginx](https://shields.microej.com/badge/-Nginx-090909??style=for-the-badge&logo=Nginx)
+![Postman](https://shields.microej.com/badge/-Postman-090909??style=for-the-badge&logo=Postman)
 ![Docker](https://shields.microej.com/badge/-Docker-090909??style=for-the-badge&logo=Docker)
 ![Git](https://shields.microej.com/badge/-Git-090909??style=for-the-badge&logo=Git)
 ![CI/CD](https://shields.microej.com/badge/-CI/CD-090909??style=for-the-badge&logo=circleci)
