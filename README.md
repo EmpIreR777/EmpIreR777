@@ -5,13 +5,10 @@
 > "Код — это не просто набор инструкций, это искусство, превращающее идеи в реальность."
 
 ## 🛠 Языки и инструменты
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![Pytest](https://img.shields.io/badge/-Pytest-090909?style=for-the-badge&logo=pytest)
-![UnitTest](https://img.shields.io/badge/-UnitTest-090909?style=for-the-badge)
 
 ![Python](https://shields.microej.com/badge/-Python-090909??style=for-the-badge&logo=python)
-![Pytest](https://shields.microej.com/badge/-Pytest-090909??style=for-the-badge&logo=Pytest)
-![UnitTest](https://shields.microej.com/badge/-UnitTest-090909??style=for-the-badge&logo=UnitTest)
+![Pytest](https://shields.microej.com/badge/-Pytest-090909??style=for-the-badge&logo=pytest)
+![UnitTest](https://shields.microej.com/badge/-UnitTest-090909??style=for-the-badge&logo=unittest)
 ![Django](https://shields.microej.com/badge/-Django-090909??style=for-the-badge&logo=Django)
 ![SQL](https://shields.microej.com/badge/-SQL-090909??style=for-the-badge&logo=SQLite)
 ![PostgreSQL](https://shields.microej.com/badge/-PostgreSQL-090909??style=for-the-badge&logo=PostgreSQL)
