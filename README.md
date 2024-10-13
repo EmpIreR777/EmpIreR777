@@ -7,9 +7,9 @@
 ## 🛠 Языки и инструменты
 
 ![Python](https://shields.microej.com/badge/-Python-090909??style=for-the-badge&logo=python)
+![Pytest](https://shields.microej.com/badge/-Pytest-090909??style=for-the-badge&logo=Pytest)
+![Python](https://shields.microej.com/badge/-Python-090909??style=for-the-badge&logo=python)
 ![Django](https://shields.microej.com/badge/-Django-090909??style=for-the-badge&logo=Django)
-![Pytest](https://shields.microej.com/badge/-Pytest-090909?style=for-the-badge&logo=pytest)
-![Unit Test](https://shields.microej.com/badge/-Unit%20Test-090909?style=for-the-badge&logo=python)
 ![SQL](https://shields.microej.com/badge/-SQL-090909??style=for-the-badge&logo=SQLite)
 ![PostgreSQL](https://shields.microej.com/badge/-PostgreSQL-090909??style=for-the-badge&logo=PostgreSQL)
 ![HTML](https://shields.microej.com/badge/-HTML-090909??style=for-the-badge&logo=HTML5)
