@@ -7,7 +7,6 @@
 ## 🛠 Языки и инструменты
 
 ![Python](https://shields.microej.com/badge/-Python-090909??style=for-the-badge&logo=python)
-![Pytest](https://shields.microej.com/badge/-Pytest-090909?style=for-the-badge&logo=pytest)
 ![Django](https://shields.microej.com/badge/-Django-090909??style=for-the-badge&logo=Django)
 ![SQL](https://shields.microej.com/badge/-SQL-090909??style=for-the-badge&logo=SQLite)
 ![PostgreSQL](https://shields.microej.com/badge/-PostgreSQL-090909??style=for-the-badge&logo=PostgreSQL)
