@@ -4,7 +4,7 @@
 
 > "Код — это не просто набор инструкций, это искусство, превращающее идеи в реальность."
 
-## 🚀 Языки и инструменты
+## 🛠 Языки и инструменты
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
