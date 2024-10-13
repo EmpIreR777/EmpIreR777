@@ -42,7 +42,7 @@
     <td>🎵</td>
     <td><strong>Lofi Radio</strong></td>
     <td>📻</td>
-    <td><a href="https://music.yandex.ru/artist/8268430">Chill Beats for Study and Relax</a></td>
+    <td><a href="https://music.yandex.ru/artist/8268430">Chill Beats for Work and Relax</a></td>
   </tr>
 </table>
 
