@@ -33,7 +33,7 @@
 ## 📫 Как связаться со мной
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/EmpIreR7)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cyril.killreal@yandex.ru)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:safronov.kirill.y@mail.ru)
 
 ## 🎵 Cлушаю
 
