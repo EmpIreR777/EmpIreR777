@@ -4,23 +4,25 @@
 
 > "Код — это не просто набор инструкций, это искусство, превращающее идеи в реальность."
 
-## 🚀 Языки и инструменты
+## 🛠 Языки и инструменты
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=Celery&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-4A154B?style=flat-square&logo=Jenkins&logoColor=white)
+![Python](https://shields.microej.com/badge/-Python-090909??style=for-the-badge&logo=python)
+![Django](https://shields.microej.com/badge/-Django-090909??style=for-the-badge&logo=Django)
+![FastAPI](https://shields.microej.com/badge/-FastAPI-090909??style=for-the-badge&logo=FastAPI)
+![SQL](https://shields.microej.com/badge/-SQL-090909??style=for-the-badge&logo=SQLite)
+![PostgreSQL](https://shields.microej.com/badge/-PostgreSQL-090909??style=for-the-badge&logo=PostgreSQL)
+![HTML](https://shields.microej.com/badge/-HTML-090909??style=for-the-badge&logo=HTML5)
+![CSS](https://shields.microej.com/badge/-CSS-090909??style=for-the-badge&logo=CSS3)
+![Bootstrap](https://shields.microej.com/badge/-Bootstrap-090909??style=for-the-badge&logo=Bootstrap)
+![Celery](https://shields.microej.com/badge/-Celery-090909??style=for-the-badge&logo=Celery)
+![Redis](https://shields.microej.com/badge/-Redis-090909??style=for-the-badge&logo=Redis)
+![SQLAlchemy](https://shields.microej.com/badge/-SQLAlchemy-090909??style=for-the-badge&logo=SQLAlchemy)
+![Linux](https://shields.microej.com/badge/-Linux-090909??style=for-the-badge&logo=Linux)
+![Nginx](https://shields.microej.com/badge/-Nginx-090909??style=for-the-badge&logo=Nginx)
+![Postman](https://shields.microej.com/badge/-Postman-090909??style=for-the-badge&logo=Postman)
+![Docker](https://shields.microej.com/badge/-Docker-090909??style=for-the-badge&logo=Docker)
+![Git](https://shields.microej.com/badge/-Git-090909??style=for-the-badge&logo=Git)
+![CI/CD](https://shields.microej.com/badge/-CI/CD-090909??style=for-the-badge&logo=circleci)
 
 ## 📊 GitHub статистика
 
@@ -33,16 +35,16 @@
 ## 📫 Как связаться со мной
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/EmpIreR7)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cyril.killreal@yandex.ru)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:safronov.kirill.y@mail.ru)
 
-## 🎵 Сейчас слушаю
+## 🎵 Cлушаю
 
 <table>
   <tr>
     <td>🎵</td>
     <td><strong>Lofi Radio</strong></td>
     <td>📻</td>
-    <td><a href="https://music.yandex.ru/artist/8268430">Chill Beats for Study and Relax</a></td>
+    <td><a href="https://music.yandex.ru/artist/8268430">Chill Beats for Work and Relax</a></td>
   </tr>
 </table>
 
