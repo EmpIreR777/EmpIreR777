@@ -27,11 +27,11 @@
 ## 📊 GitHub статистика
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmpIreR777&show_icons=true&theme=radical&hide=issues,contribs" alt="EmpIreR777's GitHub Stats"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=EmpIreR777&show_icons=true&theme=radical&hide=issues,contribs" alt="EmpIreR777's GitHub Stats"/>
 
 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpIreR777&layout=compact&theme=radical" alt="EmpIreR777's Top Languages"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpIreR777&layout=compact&theme=radical" alt="EmpIreR777's Top Languages"/>
 </p>
 
 
