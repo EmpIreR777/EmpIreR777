@@ -1,10 +1,10 @@
-# Привет, меня зовут Кирилл! 👋
+# Hi, my name is Kirill! 👋
 
-Я разработчик из Санкт-Петербурга, России. 🇷🇺
+I'm a developer from Saint Petersburg, Russia. 🇷🇺
 
-> "Код — это не просто набор инструкций, это искусство, превращающее идеи в реальность."
+> "Code is not just a set of instructions, it's an art that turns ideas into reality."
 
-## 🛠 Языки и инструменты
+## 🛠 Languages and Tools
 
 ![Python](https://shields.microej.com/badge/-Python-090909??style=for-the-badge&logo=python)
 ![Django](https://shields.microej.com/badge/-Django-090909??style=for-the-badge&logo=Django)
@@ -24,18 +24,18 @@
 ![Git](https://shields.microej.com/badge/-Git-090909??style=for-the-badge&logo=Git)
 ![CI/CD](https://shields.microej.com/badge/-CI/CD-090909??style=for-the-badge&logo=circleci)
 
-## 📊 GitHub статистика
+## 📊 GitHub Stats
 
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpIreR777&layout=compact&theme=radical" alt="EmpIreR777's Top Languages"/>
 </p>
 
 
-## 📫 Как связаться со мной
+## 📫 How to Reach Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/EmpIreR7)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:safronov.kirill.y@mail.ru)
 
-## 🎵 Cлушаю
+## 🎵 Listening To
 
 <table>
   <tr>
