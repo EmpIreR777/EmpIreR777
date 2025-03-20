@@ -28,8 +28,11 @@ I'm a developer from Saint Petersburg, Russia. 🇷🇺
 
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpIreR777&layout=compact&theme=radical" alt="EmpIreR777's Top Languages"/>
 </p>
-
-
+<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpIreR777&layout=compact&theme=dark&hide_border=true" alt="EmpIreR777's Top Languages"/>
+<img height="240em" src="https://github-readme-streak-stats.herokuapp.com/?user=EmpIreR777&theme=radical&hide_border=true" alt="EmpIreR777's Streak Stats"/>
+<img height="240em" src="https://activity-graph.herokuapp.com/graph?username=EmpIreR777&theme=react-dark&hide_border=true" alt="EmpIreR777's Activity Graph"/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ## 📫 How to Reach Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/EmpIreR7)
