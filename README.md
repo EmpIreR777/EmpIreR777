@@ -28,11 +28,11 @@ I'm a developer from Saint Petersburg, Russia. 🇷🇺
 
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpIreR777&layout=compact&theme=radical" alt="EmpIreR777's Top Languages"/>
 </p>
-<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpIreR777&layout=compact&theme=dark&hide_border=true" alt="EmpIreR777's Top Languages"/>
-
-<img height="240em" src="https://github-readme-streak-stats.herokuapp.com/?user=EmpIreR777&theme=radical&hide_border=true" alt="EmpIreR777's Streak Stats"/>
-
-<img height="240em" src="https://activity-graph.herokuapp.com/graph?username=EmpIreR777&theme=react-dark&hide_border=true" alt="EmpIreR777's Activity Graph"/>
+<div align="center">
+  <h2>📊 My GitHub Stats</h2>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmpIreR777&show_icons=true&theme=radical&hide_border=true" alt="EmpIreR777's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpIreR777&layout=compact&theme=radical&hide_border=true" alt="EmpIreR777's Top Languages"/>
+</div>
 
 ## 📫 How to Reach Me
 
