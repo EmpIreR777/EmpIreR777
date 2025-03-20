@@ -29,13 +29,6 @@ I'm a developer from Saint Petersburg, Russia. 🇷🇺
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpIreR777&layout=compact&theme=radical" alt="EmpIreR777's Top Languages"/>
 </p>
 
-<div align="center">
-  <h2>📊 My GitHub Stats</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmpIreR777&show_icons=true&theme=radical&hide_border=true" alt="EmpIreR777's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpIreR777&layout=compact&theme=radical&hide_border=true" alt="EmpIreR777's Top Languages"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EmpIreR777&theme=radical&hide_border=true" alt="EmpIreR777's Streak Stats"/>
-</div>
-
 ## 📫 How to Reach Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/EmpIreR7)
